@@ -19,6 +19,7 @@ public class Issue1 {
 
    static void insertAtEnd(int arr[],int sizeOfArray,int element)
     {
+        /* Solved Issue #1 for adding element at end of array  */
         arr[sizeOfArray-1]=element;
     }
 
